@@ -1,27 +1,20 @@
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
-
 ## Finish
 
-_Congratulations friend, you've completed this course!_
+_Congratulations on completing this course on GitHub Issue Search and Notifications!_
 
-<img src=https://octodex.github.com/images/hula_loop_octodex03.gif alt=celebrate width=300 align=right>
+<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
-As you continue working on GitHub, remember that high quality reviews improve your projects. If you are new to a repository, inquire about what review practices they have so you can hit the ground running.
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You learned how to assign pull requests for review.
-- You left a review on a pull request.
-- You suggested changes to a pull request.
-- You applied suggested changes to a pull request.
+By mastering these tools, you've significantly improved your ability to:
+- Quickly find the issues that matter to you
+- Stay updated on important changes without being overwhelmed
+- Navigate GitHub more efficiently using keyboard shortcuts
+- Create custom workflows that match your team's needs
 
 ### What's next?
 
-- Try adding a [`CODEOWNERS`](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file to your project to automatically assign reviewers to pull requests.
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/review-pull-requests).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+- Try creating project boards to organize your issues visually
+- Explore GitHub Actions for automating issue management
+- Set up team-level notification rules if you're working in a team
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/issue-management)
+- [Take another GitHub Skills course](https://github.com/skills)
+- [Read the GitHub documentation on search syntax](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests)
