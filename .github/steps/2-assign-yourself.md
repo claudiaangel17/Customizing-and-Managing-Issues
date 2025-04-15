@@ -1,43 +1,22 @@
-## Step 2: Adding a Label
+## Step 2: Create Custom Filters and Views
 
-Now that you've created an issue, let's learn how to **categorize and prioritize** it using labels!
+Custom filters allow you to save frequent searches for easy access later. Let's create a set of useful filters.
 
-### 🏷️ What is a Label?
+### 🔍 Creating Saved Searches
 
-Labels help you organize, sort, and quickly understand issues in a project. You can use labels to mark issues as `bug`, `enhancement`, `documentation`, or even custom categories like `good first issue` or `high priority`.
+Saved searches appear in your issues sidebar for quick access:
 
-They’re also great for automating workflows—GitHub Actions can respond to labels being added or removed!
+1. After performing a search, look for the "Save search" option
+2. Name your search something descriptive
+3. Access saved searches from the sidebar on the Issues page
 
----
+### :keyboard: Task: Create Multiple Custom Filters
 
-### :keyboard: Task: Add a Label to Your Issue
+Create the following saved searches:
 
-Let’s walk through how to create and apply a label to your issue:
-
-#### ✅ Step 1: Navigate to Your Issue
-1. Click on the **Issues** tab in your repository.
-2. Select the issue you just created in Step 1.
-
-#### 🏷️ Step 2: Add an Existing Label
-1. On the right sidebar of the issue page, click the **Labels** dropdown.
-2. Select a label that best describes your issue.
-   - Example: `bug`, `feature`, or `help wanted`
-
-#### ✨ Optional: Create a New Label
-If you don’t see a label you want:
-1. Click the **Labels** tab in the repository navigation (next to Issues).
-2. Click **New label**.
-3. Fill in the label name, description, and pick a color.
-4. Click **Create label**.
-5. Return to your issue and apply your new label.
+1. `is:open is:issue sort:updated-desc` - Recently updated issues
+2. `is:open is:issue assignee:@me milestone:current` - Your tasks for the current milestone
+3. `is:open is:issue label:help-wanted` - Open issues seeking help
+4. Comment "filters-created" when you've created all three saved searches
 
 ---
-
-### 🎯 Why This Matters
-
-Using labels helps your team:
-- Prioritize what to work on first
-- Understand issue type at a glance
-- Automate workflows and organize sprints
-
-Once you’ve labeled your issue, you're one step closer to mastering issue management! 🙌
