@@ -17,6 +17,12 @@ Search operators help you narrow down exactly what you're looking for:
 - `no:assignee` - Find issues with no assignee
 - `no:label` - Find issues with no labels
 
+## :keyboard: Task: Create an Issue
+
+1. Navigate to the Issues tab in your repository
+2. Click on create new Issue
+3. Make sure to label to issue as a bug and assign it to yourself
+
 ## :keyboard: Task: Create Your First Advanced Search
 
 1. Navigate to the Issues tab in your repository
