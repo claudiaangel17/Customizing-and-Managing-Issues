@@ -1,37 +1,25 @@
-## Step 4: Open a Pull Request
+## Step 4: Configure Notification Preferences
 
-Great job making changes on your own branch! Now it’s time to submit your work by opening a pull request.
+Controlling how and when you receive notifications can prevent information overload.
 
-Pull requests let you propose changes, get feedback, and merge updates into the main project. They are an essential part of collaborative development.
+### 🔔 Notification Settings
 
----
+GitHub lets you customize where and how often you receive notifications:
 
-### ✅ Task: Open a Pull Request
+- **Web notifications**: Appear in the GitHub interface
+- **Email notifications**: Can be sent immediately or in a daily digest
+- **Mobile notifications**: Available through the GitHub mobile app
 
-Let’s create a pull request from the branch you’ve been working on (`update-game`):
+### :keyboard: Task: Customize Your Notification Settings
 
-#### 🧭 Step 1: Navigate to the "Pull Requests" Tab
-1. Click the **"Pull requests"** tab at the top of the repository.
-2. Click the green **"New pull request"** button.
-
-#### 🔀 Step 2: Select the Correct Branches
-1. For the **base** branch, select `main`.
-2. For the **compare** branch, select `update-game`.
-
-> 💡 The pull request must come from the `update-game` branch for this step to progress.
-
-#### 📝 Step 3: Create the PR
-1. Click **Create pull request**.
-2. Give your PR a brief title and description (or leave the default).
-3. Click **Create pull request** again to submit.
-
-🎉 You’ve just opened your first pull request!
+1. Go to your GitHub profile settings
+2. Navigate to the "Notifications" section
+3. Review and update your notification preferences
+4. Choose your preferred notification methods for:
+   - Participating issues and PRs
+   - Watching repositories
+   - Security alerts
+5. Comment "notifications-configured" when complete
 
 ---
-
-### ✅ [Finished](#)
-
-If everything worked, the next step will load automatically.  
-If not, make sure your pull request was opened from the `update-game` branch and that you're currently on **Step 4**.
-
 
