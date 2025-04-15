@@ -56,13 +56,20 @@ jobs:
         with:
           fetch-depth: 0 # Let's get all the branches.
 
+      # First update the step on main branch before creating PR
+      - name: Update to step 1 on main branch
+        uses: skills/action-update-step@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          from_step: 0
+          to_step: 1
+
       # Create update-game branch, update game, and create pull request for the learner.
-      - name: Prepare a branch and pull request
+      - name: Prepare game updates on a new branch
         run: |
-          echo "Make sure we are on step 0"
-          if [ "$(cat .github/steps/-step.txt)" != 0 ]
-          then
-            echo "Current step is not 0"
+          echo "Check if index.html exists"
+          if [ ! -f "index.html" ]; then
+            echo "index.html does not exist, skipping game update"
             exit 0
           fi
 
@@ -82,17 +89,13 @@ jobs:
           echo "Push"
           git push --set-upstream origin $BRANCH
 
+          echo "Create pull request"
+          gh pr create --title "Update game content" \
+                      --body "This PR updates the game over message. This is part of the GitHub Skills course on Issue Management." \
+                      --base main \
+                      --head $BRANCH
+          
           echo "Restore main"
           git checkout main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # In README.md, switch step 0 for step 1.
-      - name: Update to step 1
-        uses: skills/action-update-step@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          from_step: 0
-          to_step: 1
-          branch_name: update-game
-
