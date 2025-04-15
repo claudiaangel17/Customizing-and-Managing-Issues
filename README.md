@@ -41,7 +41,7 @@ In today's fast-paced development environments, finding the right information qu
 
 ### 🚀 How to start this course
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=githublearn&template_name=issue-search-notifications&owner=%40me&name=github-issue-search&description=Learning+GitHub+Issue+search+and+notifications&visibility=public)
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=claudiaangel17&template_name=IssuesThree&owner=%40me&name=github-issue-search&description=Learning+GitHub+Issue+search+and+notifications&visibility=public)
 
 1. Right-click **Start course** and open the link in a new tab.
 2. In the new tab, follow the prompts to create a new repository.
