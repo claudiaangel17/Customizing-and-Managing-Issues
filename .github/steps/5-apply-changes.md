@@ -1,30 +1,24 @@
-## Step 5: Link and Merge the Pull Request
+## Step 5: Use Keyboard Shortcuts for Efficiency
 
-Now that your pull request is open, let’s link it to an issue so GitHub can automatically close the issue when your PR is merged.
+GitHub's keyboard shortcuts can significantly speed up your workflow.
+
+### ⌨️ Essential Shortcuts
+
+- Press `?` to view all available shortcuts
+- `g` + `i` to navigate to Issues
+- `/` to focus on the search bar
+- `j` and `k` to move between issues in a list
+- `o` or `Enter` to open an issue
+- `n` to create a new issue
+
+### :keyboard: Task: Try Keyboard Navigation
+
+1. Press `?` to view the keyboard shortcuts menu
+2. Use `g` + `i` to navigate to Issues
+3. Use `j` and `k` to move between issues
+4. Use `o` to open an issue
+5. Comment "shortcuts-learned" when complete
 
 ---
-
-### 🔗 What Does It Mean to Link a Pull Request?
-
-When you add `closes #issue_number` to the pull request description, GitHub automatically closes that issue after the PR is merged. This keeps your issues and code in sync.
-
----
-
-### ✅ Task: Link and Merge Your Pull Request
-
-#### ✏️ Step 1: Edit the PR Description
-1. Open your pull request.
-2. Click the **Edit** button near the PR description.
-3. Add this line to the description (replace `1` with your issue number): "close #1"
-4. Click **Save**.
-
----
-
-#### 🔀 Step 2: Merge the PR
-1. Scroll down to the bottom of the pull request.
-2. Click **Merge pull request**.
-3. Then click **Confirm merge**.
-
-GitHub will now automatically close the linked issue 🎉
 
 
