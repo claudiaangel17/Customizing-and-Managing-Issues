@@ -1,7 +1,7 @@
-# Step 1: Master Basic Search Syntax
+# Step 1: Master basic search syntax
 GitHub's issue search is powerful but only if you know how to use it. Let's learn the essential search operators.
 
-## 📝 Core Search Operators
+## 📝 Core search operators
 Search operators help you narrow down exactly what you're looking for:
 
 - `is:issue` - Find only issues (not pull requests)
@@ -20,7 +20,7 @@ Search operators help you narrow down exactly what you're looking for:
 ## :keyboard: Task: Create an Issue
 
 1. Navigate to the Issues tab in your repository
-2. Click on create new Issue
+2. Click on **create new Issue**
 3. Make sure to label to issue as a bug and assign it to yourself
 
 ## :keyboard: Task: Create Your First Advanced Search
@@ -28,7 +28,7 @@ Search operators help you narrow down exactly what you're looking for:
 1. Navigate to the Issues tab in your repository
 2. Click on the search bar at the top of the Issues page
 3. Type `is:open label:bug assignee:@me` and press Enter
-4. Click the "Save search" option that appears and name it "My Open Bugs"
+4. Click the **Save search** option that appears and name it "My Open Bugs"
 5. Comment "search-created" on this issue when complete
 
 
