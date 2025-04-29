@@ -1,8 +1,8 @@
-## Step 5: Use Keyboard Shortcuts for Efficiency
+## Step 5: Use keyboard shortcuts for efficiency
 
 GitHub's keyboard shortcuts can significantly speed up your workflow.
 
-### ⌨️ Essential Shortcuts
+### ⌨️ Essential shortcuts
 
 - Press `?` to view all available shortcuts
 - `g` + `i` to navigate to Issues
@@ -11,7 +11,7 @@ GitHub's keyboard shortcuts can significantly speed up your workflow.
 - `o` or `Enter` to open an issue
 - `n` to create a new issue
 
-### :keyboard: Task: Try Keyboard Navigation
+### :keyboard: Task: Try keyboard navigation
 
 1. Press `?` to view the keyboard shortcuts menu
 2. Use `g` + `i` to navigate to Issues
