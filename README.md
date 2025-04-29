@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Finding your way with GitHub Issues
+# Custimizing and managing Issues
 
 _Take control of your workflow with powerful search filters, saved queries, and smart notifications._
 
