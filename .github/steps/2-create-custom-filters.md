@@ -1,16 +1,16 @@
-## Step 2: Create Custom Filters and Views
+## Step 2: Create custom filters and views
 
 Custom filters allow you to save frequent searches for easy access later. Let's create a set of useful filters.
 
-### 🔍 Creating Saved Searches
+### 🔍 Creating saved searches
 
 Saved searches appear in your issues sidebar for quick access:
 
-1. After performing a search, look for the "Save search" option
+1. After performing a search, look for the **Save search** option
 2. Name your search something descriptive
 3. Access saved searches from the sidebar on the Issues page
 
-### :keyboard: Task: Create Multiple Custom Filters
+### :keyboard: Task: Create multiple custom filters
 
 Create the following saved searches:
 
