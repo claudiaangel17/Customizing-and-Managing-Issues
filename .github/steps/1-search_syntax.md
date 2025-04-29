@@ -23,7 +23,7 @@ Search operators help you narrow down exactly what you're looking for:
 2. Click on **create new Issue**
 3. Make sure to label to issue as a bug and assign it to yourself
 
-## :keyboard: Task: Create Your First Advanced Search
+## :keyboard: Task: Create your first advanced search
 
 1. Navigate to the Issues tab in your repository
 2. Click on the search bar at the top of the Issues page
