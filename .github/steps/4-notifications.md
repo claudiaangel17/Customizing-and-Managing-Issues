@@ -1,8 +1,8 @@
-## Step 4: Configure Notification Preferences
+## Step 4: Configure notification preferences
 
 Controlling how and when you receive notifications can prevent information overload.
 
-### 🔔 Notification Settings
+### 🔔 Notification settings
 
 GitHub lets you customize where and how often you receive notifications:
 
@@ -10,7 +10,7 @@ GitHub lets you customize where and how often you receive notifications:
 - **Email notifications**: Can be sent immediately or in a daily digest
 - **Mobile notifications**: Available through the GitHub mobile app
 
-### :keyboard: Task: Customize Your Notification Settings
+### :keyboard: Task: Customize your notification settings
 
 1. Go to your GitHub profile settings
 2. Navigate to the "Notifications" section
