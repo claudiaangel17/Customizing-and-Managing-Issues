@@ -21,7 +21,7 @@ Search operators help you narrow down exactly what you're looking for:
 
 1. Navigate to the Issues tab in your repository
 2. Click on **create new Issue**
-3. Make sure to label to issue as a bug and assign it to yourself
+3. Make sure to label the issue as a bug and assign it to yourself
 
 ## :keyboard: Task: Create your first advanced search
 
