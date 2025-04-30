@@ -29,8 +29,8 @@ In today's fast-paced development environments, finding the right information qu
 - **Prerequisites**: Basic familiarity with GitHub Issues.
 - **How long**: 20-30 minutes.
 
-### In this course, you'll learn how to:
 
+In this course, you will learn how to:
 1. Use GitHub's powerful search syntax to find specific issues
 2. Create and save custom filters for frequent searches
 3. Subscribe to issues and manage notification preferences
