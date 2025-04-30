@@ -16,7 +16,7 @@ GitHub lets you customize where and how often you receive notifications:
 2. Navigate to the "Notifications" section
 3. Review and update your notification preferences
 4. Choose your preferred notification methods for:
-   - Participating issues and PRs
+   - Participating issues and Pull Requests
    - Watching repositories
    - Security alerts
 5. Comment "notifications-configured" when complete
